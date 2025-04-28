@@ -75,7 +75,7 @@ display: block;
  padding: 0;
  margin: auto;
  text-align: center;
- list-style-type: disc;
+ list-style-type: none;
  display: inline-block;
 }
 .hobbies li{
